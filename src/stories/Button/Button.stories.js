@@ -5,4 +5,4 @@ import Button from "./Button.js";
 const stories = storiesOf("Button", module);
 
 stories.add("Primary", () => <Button variant="primary">Click Me</Button>);
-stories.add("Secondary", () => <Button>Click Me</Button>);
+stories.add("Secondary", () => <Button variant="secondary">Click Me</Button>);

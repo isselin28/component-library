@@ -5,6 +5,10 @@ const variantStyles = {
     color: white;
     background-color: #1478c1;
   `,
+  secondary: css`
+    color: #282929;
+    background-color: #cacbcd;
+  `,
 };
 
 const Button = styled.button`

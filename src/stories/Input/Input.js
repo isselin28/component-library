@@ -1,7 +1,7 @@
 import styled from "styled-components/macro";
 
 const Input = styled.input`
-  color: #dededf;
+  color: #757575;
   outline: 0;
   border: 1px solid #dededf;
   border-radius: 4px;

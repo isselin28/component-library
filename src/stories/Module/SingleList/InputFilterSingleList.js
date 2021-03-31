@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import Input from "../../Input/Input.js";
 import faker from "faker";
 import styled from "styled-components/macro";
-import List from "../../List/List.js";
 import debounce from "debounce";
 
 const ListContainer = styled.div`

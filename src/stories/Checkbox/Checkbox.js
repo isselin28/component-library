@@ -16,11 +16,11 @@ const CheckboxContainer = styled.div`
 `;
 
 function Checkbox(props) {
-  const { checked, disabled, ...nativeProps } = props;
+  const { label, checked, disabled, ...restProps } = props;
   return (
     <CheckboxContainer>
-      <StyledCheckbox checked={checked} disabled={disabled} {...nativeProps} />
-      Hello
+      <StyledCheckbox checked={checked} disabled={disabled} {...restProps} />
+      {label}
     </CheckboxContainer>
   );
 }

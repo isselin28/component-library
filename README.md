@@ -9,14 +9,14 @@ My component-library was a storybook based project that collects important and f
 
 Totally for personal use, I hope that this library could be useful to aid you in your career. These are the components that's included in the library:
 
-## Elements:
+Elements:
 - Button
 - Input
 - Checkbox
 - Radio
 - List
 
-## Module:
+Module:
 - Dropdown Single
 - Dropdown Multiple
 - Checkbox filter single list
@@ -25,7 +25,7 @@ Totally for personal use, I hope that this library could be useful to aid you in
 - Input filter multiple lists
 - Radio filter single list
 
-## Dynamic Components:
+Dynamic Components:
 - Tooltip
 - Spotlight
 - Modal Popup
